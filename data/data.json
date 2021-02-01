@@ -1,0 +1,31 @@
+{
+	"mobiles":[
+		{
+			"name":"samsung j7max",
+			"image":"image/j7.jpg",
+			"oprice":16000,
+			"price":13000
+		},{
+            "name":"Asus pro",
+			"image":"image/as.jpg",
+			"oprice":17000,
+			"price":14000	
+		},{
+			"name":"samsung j8",
+			"image":"image/j8.jpg",
+			"oprice":18000,
+			"price":15000
+		},{
+			"name":"apple se",
+			"image":"image/se.jpg",
+			"oprice":31000,
+			"price":30000
+		},{
+			"name":"samsung A30",
+			"image":"image/a30.jpg",
+			"oprice":15000,
+			"price":13000
+		}
+
+	]
+}
